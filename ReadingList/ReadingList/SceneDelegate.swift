@@ -3,6 +3,8 @@
 
 import UIKit
 
-class CoolController: UIViewController
+class SceneDelegate: UIResponder, UIWindowSceneDelegate
 {
+    var window: UIWindow?
 }
+
